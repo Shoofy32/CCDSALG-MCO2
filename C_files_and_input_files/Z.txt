@@ -1,0 +1,22 @@
+20
+Hhh Aaa Fff Ggg -1
+Fff Ggg Hhh -1
+Ggg Ccc Eee Fff Hhh -1
+Eee Aaa Ddd Ggg -1
+Ddd Eee -1
+Ccc Bbb Ggg -1
+Bbb Aaa Ccc -1 
+Aaa Bbb Eee Hhh -1
+Iii Hhh Ggg -1
+Jjj Aaa Ddd -1
+Kkk Iii Jjj -1
+Lll Ccc Kkk -1
+Mmm Bbb Lll -1
+Nnn Ddd Mmm -1
+Ooo Fff Nnn -1
+Ppp Ooo Ggg -1
+Qqq Hhh Ppp -1
+Rrr Qqq Ccc -1
+Sss Rrr Ddd -1
+Ttt Sss Eee -1
+
